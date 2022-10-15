@@ -1,0 +1,24 @@
+.itraffic-chart {
+    position: relative;
+    margin: auto;
+    width: 90%;
+}
+
+.flexbox-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.flexbox-item-select {
+    float: right;
+}
+.flexbox-item-1 {
+    flex: 0 1 auto;
+    width: 650px;
+}
+.ranking {
+    position: relative;
+    margin: auto;
+    width: 90%
+}
